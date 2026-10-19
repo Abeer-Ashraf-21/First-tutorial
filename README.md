@@ -1,2 +1,2 @@
-# First-tutorial
-this is my first tutorial
+# First- Repo
+this is my first repository
